@@ -27,5 +27,6 @@ public class CharInEachWordAndCount {
 		}
 		nst=nst+ nc;
 		System.out.println("no. of char in each word is:: "+ nst);
-}
+		System.out.println("Char Conte successfully............");
+	}
 }
